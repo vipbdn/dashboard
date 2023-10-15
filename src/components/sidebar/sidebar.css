@@ -1,0 +1,36 @@
+.sidebar{
+    flex:2;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.dashboardLogo{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.optionBg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 15px 10px;
+    
+}
+
+.mainHeading{
+    font-weight: 700;
+    font-size: 30px ;
+}
+
+.firstOption{
+    background-color: #480f61;
+    border: 1px sold white;
+    border-radius: 10px;
+    
+}
+
+.dashboardOptionIcon{
+    margin-right: 16px;
+}

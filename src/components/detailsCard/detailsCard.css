@@ -1,0 +1,30 @@
+.cardContainer{
+    width: 20%;
+    padding: 20px;
+    border: 1px solid #9999;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.cardIcon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    line-height: 60px;
+    text-align: center;
+    background-color: white;
+    color: #9cf0b2;
+    background-color: lightgreen;
+    color: green;
+
+}
+
+.cardIcon i {
+    font-size: 30px;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+}
